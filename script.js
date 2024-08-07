@@ -19,17 +19,30 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Voce sabe como funciona nosso HOSPITAL?",
+        enunciado: "GOSTARIA DE MARCAR ALGUMA CONSULTA? ",
         alternativas: [
-            "SIM,CONHEÇO .",
-            "Não .",
+            {
+            texto: "SIM!",
+            afirmacao: " GOSTARIA DE SER ATENDIDO(A)"
+            },
+            {
+            texto: "Não, apenas quero conhecer como funciona!",
+            afirmacao: " estou apenas conhecendo" 
+            }
         ]
     },
-    {
-        enunciado: "Voce esta a procura de algum especialista?",
+     enunciado: "Voce esta a prcura de algum especialista? ",
         alternativas: [
-            "SIM ESTOU.",
-            "NAO."
+            {
+            texto: "SIM estou !",
+            afirmacao: " voce esta a procura de algum medico(a) especifico?"
+            },
+            {
+            texto: "voce esta a procura de algum especialista!",
+            afirmacao: " estou apenas conhecendo" 
+            }
+        ]
+    },
         ]
     },
     {
