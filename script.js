@@ -8,8 +8,14 @@ const perguntas = [
     {
         enunciado: "Voce precisa de algum atendimento? ",
         alternativas: [
-            "SIM eu preciso!",
-            "Não, apenas quero conhecer como funciona!"
+            {
+            texto: "SIM eu preciso!",
+            afirmacao: " voce precisa de atendimento nesse hospital"
+            },
+            {
+            texto: "Não, apenas quero conhecer como funciona!",
+            afirmacao: " estou apenas conhecendo" 
+            }
         ]
     },
     {
