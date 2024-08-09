@@ -45,21 +45,34 @@ const perguntas = [
     },
         ]
     },
-    {
-        enunciado: "Gostaria de marcar alguma consulta conosco?",
+    {enunciado: "conhece nosso hospital? ",
         alternativas: [
-            "SIM eu gostaria de marcar uma consulta.",
-            "NAO apenas queria mais informações."
+            {
+            texto: "SIM!",
+            afirmacao: " voce esta a procura de algum medico(a) especifico?"
+            },
+            {
+            texto: "voce conhece nosso hospital!",
+            afirmacao: " ainda nao mas gostaria de mais informaçao" 
+            }
         ]
     },
-    {
-        enunciado: "Você tem alguma duvida sobre o HOSPITAL?",
-        alternativas: [
-           "SIM, AINDA TENHO.",
-            "NAO, ESTOU SATISFEITO(A)."
         ]
     },
-];
+    enunciado: "posso ajudar mais em alguma coisa? ",
+        alternativas: [
+            {
+            texto: "SIM  !",
+            afirmacao: " posso ajudar em mais alguma coisa?"
+            },
+            {
+            texto: "posso ajudar mais em alguma coisa!",
+            afirmacao: " nao obrigado(a) estou satisfeito" 
+            }
+        ]
+    },
+        ]
+    },
 
 let atual = 0;
 let perguntaAtual;
@@ -93,7 +106,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "Em 2024...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
