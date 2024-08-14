@@ -22,7 +22,7 @@ const perguntas = [
         enunciado: "VOCE GOSTARIA DE MARCAR ALGUMA CONSULTA?",
         alternativas: [
             {
-                texto: "SIM, EU GOSTARIA",
+                texto: "SIM, eu gostaria,
                 afirmacao: "afirmação"
             },
             {
@@ -32,14 +32,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "voce esta a procura de algum especialista expecifico?",
+        enunciado: "VOCE ESTA A PROCURA DE ALGUMA EXPECIALISTA EXPECIFICO?",
         alternativas: [
             {
                 texto: " SIM, estou a procura.",
                 afirmacao: "afirmação"
             },
             {
-                texto: " POR ENQUANTO NAO.",
+                texto: " Não.",
                 afirmacao: "afirmação"
             }
         ]
@@ -48,24 +48,24 @@ const perguntas = [
         enunciado: "VOCE JA CONHECE OU CONHECIA NOSSO HOSPITAL?",
         alternativas: [
             {
-                texto: "SIM, JA OUVI FALAR DO HSOPITAL.",
+                texto: "SIM, CONHEÇO.",
                 afirmacao: "afirmação"
             },
             {
-                texto: "NAO,ESTOU CONHECENDO AGORA.",
+                texto: "Não.",
                 afirmacao: "afirmação"
             }
         ]
     },
     {
-        enunciado: "PODEMOS TE AJUDAR MAIS EM ALGUMA COISA? ",
+        enunciado: "VOCE TEM ALGUMA DUVIDA? ",
         alternativas: [
             {
-                texto: "SIM AINDA TENHO DUVIDAS.",
+                texto: "Sim, ainda tenho.",
                 afirmacao: "afirmação"
             },
             {
-                texto: "NAO, ESTOU SATISFEITO(A).",
+                texto: "NAO, estou satisfeito(A).",
                 afirmacao: "afirmação"
             }
         ]
