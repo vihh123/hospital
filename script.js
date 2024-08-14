@@ -22,7 +22,7 @@ const perguntas = [
         enunciado: "VOCE GOSTARIA DE MARCAR ALGUMA CONSULTA?",
         alternativas: [
             {
-                texto: "SIM, eu gostaria,
+                texto: "SIM, eu gostaria,"
                 afirmacao: "afirmação"
             },
             {
