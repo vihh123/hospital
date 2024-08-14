@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "SIM, eu preciso!",
-                afirmacao: "afirmaçaõ"
+                afirmacao: "não preciso."
             },
             {
                 texto: "NAO obrigado(a)?!",
