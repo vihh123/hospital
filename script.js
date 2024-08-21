@@ -6,66 +6,66 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "voce precisa de atendimento?",
+        enunciado: voce precisa de atendimento?",
         alternativas: [
             {
-                texto: "SIM, eu preciso!",
-                afirmacao: "não preciso."
+                texto: "SIM!",
+                afirmacao: "afirmação"
             },
             {
-                texto: "NAO obrigado(a)?!",
+                texto: "AINDA NAO!",
                 afirmacao: "afirmação"
             }
         ]
     },
     {
-        enunciado: "VOCE GOSTARIA DE MARCAR ALGUMA CONSULTA?",
+        enunciado: "GOSTARIA DE MARCAR ALGUAM CONSULTA?",
         alternativas: [
             {
-                texto: "SIM, eu gostaria,"
+                texto: "SIM EU GOSTARIA.",
                 afirmacao: "afirmação"
             },
             {
-                texto: "NAO estou apenas conhecendo?.",
+                texto: "NAO, ESTOU APENAS CONHECENDO.",
                 afirmacao: "afirmação"
             }
         ]
     },
     {
-        enunciado: "VOCE ESTA A PROCURA DE ALGUMA EXPECIALISTA EXPECIFICO?",
+        enunciado: "VOCE ESTA A PROCURA DE ALGUM EXPECIALISTA?",
         alternativas: [
             {
-                texto: " SIM, estou a procura.",
+                texto: "SIM EU PRECISO.",
                 afirmacao: "afirmação"
             },
             {
-                texto: " Não.",
+                texto: "NAO OBRIGADO(a).",
                 afirmacao: "afirmação"
             }
         ]
     },
     {
-        enunciado: "VOCE JA CONHECE OU CONHECIA NOSSO HOSPITAL?",
+        enunciado: "VOCE CONHECE NOSSO ATENDIMENTO?",
         alternativas: [
             {
-                texto: "SIM, CONHEÇO.",
+                texto: "SIM EU JA CONHEÇO",
                 afirmacao: "afirmação"
             },
             {
-                texto: "Não.",
+                texto: "SOU NOVO(A) AQUI!.",
                 afirmacao: "afirmação"
             }
         ]
     },
     {
-        enunciado: "VOCE TEM ALGUMA DUVIDA? ",
+        enunciado: "VOCE TEM ALGUAM DUVIDA? ",
         alternativas: [
             {
-                texto: "Sim, ainda tenho.",
+                texto: "SIM AINDA TENHO.",
                 afirmacao: "afirmação"
             },
             {
-                texto: "NAO, estou satisfeito(A).",
+                texto: "NAO, ESTOU SATISFEITO(A).",
                 afirmacao: "afirmação"
             }
         ]
@@ -105,7 +105,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "em 2024,";
+    caixaPerguntas.textContent = "Em 2049...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
