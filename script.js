@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Voce esta a procura de algum expecialista especifico?",
+        enunciado: "SIM?",
         alternativas: [
             {
                 texto: "SIM, estou?.",
