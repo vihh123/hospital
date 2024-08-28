@@ -39,7 +39,7 @@ const perguntas = [
                 afirmacao: "Sim estou."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Não.",
                 afirmacao: "Não."
             }
         ]
