@@ -35,7 +35,7 @@ const perguntas = [
         enunciado: "Voce esta a procura de algum expecialista especifico?",
         alternativas: [
             {
-                texto: "Voce esta a procura de algum expecialista especifico?.",
+                texto: "SIM, estou?.",
                 afirmacao: "Sim estou."
             },
             {
@@ -45,14 +45,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Gostaria de marcar alguma consulta?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "SIM.",
+                afirmacao: sim eu gostaria."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "Não, obrigado(a).",
                 afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
             }
         ]
