@@ -22,11 +22,11 @@ const perguntas = [
         enunciado: "Gostaria de marcar alguma consulta?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "SIM, eu gostaria.",
                 afirmacao: "SIM, eu gostaria."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "No momento não.",
                 afirmacao: "Por enquanto Não."
             }
         ]
