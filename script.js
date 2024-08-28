@@ -6,28 +6,28 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Seja bem vindo(a),precisa de ajuda?",
+        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
         alternativas: [
             {
-                texto: "SIM, EU PRECISO!",
-                afirmacao: "Precisa de atendimento. "
+                texto: "Isso é assustador!",
+                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
             },
             {
-                texto: "No momento não!",
-                afirmacao: PRECISA DE ATENDIMENTO?."
+                texto: "Isso é maravilhoso!",
+                afirmacao: "Quis saber como usar IA no seu dia a dia."
             }
         ]
     },
     {
-        enunciado: "VOCE ESTA A PROCURA DE ALGUM EXPECIALISTA EXPECIFICO?",
+        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
         alternativas: [
             {
-                texto: "GOSTARIA DE SER ATENDIDO(A) POR ALGUM MEDICO EXPEcIFICO?.",
-                afirmacao: "SIM EU GOSTARIA."
+                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
             },
             {
-                texto: "GOSTARIA DE ALGUM ATENDIMENTO?.",
-                afirmacao: "Não obrigado(a)."
+                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
             }
         ]
     },
@@ -58,15 +58,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "OQUE ESTA ACHANDO DO NOSSO ATENDIMENTO? ",
+        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
         alternativas: [
             {
-                texto: "COMO ESTA SENDO NOSSO ATENDIMENTO.",
-                afirmacao: "Esta excelente."
+                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
+                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
             },
             {
-                texto: "Como esta nosso atendimento",
-                afirmacao: "Infelizmente nao esta adequado!. "
+                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
+                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
             }
         ]
     },
