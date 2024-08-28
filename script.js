@@ -9,11 +9,11 @@ const perguntas = [
         enunciado: "Bem vindo(a) podemos ajudar com algum atendimento?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "sim eu gostaria!",
                 afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "No momento nao!",
                 afirmacao: "Quis saber como usar IA no seu dia a dia."
             }
         ]
