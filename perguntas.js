@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "sim eu gostaria!",
-                afirmacao: "afirmacao. "
+                afirmacao: "afirmacao."
             },
             {
                 texto: "No momento Não!",
@@ -23,7 +23,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sim, ja ouvi falar.",
-                afirmacao: afirmacao."
+                afirmacao: "afirmacao."
             },
             {
                 texto: "No momento não.",
@@ -66,7 +66,7 @@ const perguntas = [
             },
             {
                 texto: "Poderia Melhorar!.",
-                afirmacao: "afirmacao. "
+                afirmacao: "afirmacao."
             }
         ]
     },
