@@ -53,7 +53,7 @@ const perguntas = [
             },
             {
                 texto: "Nao.",
-                afirmacao: "afirmacao!"
+                afirmacao: ""
             }
         ]
     },
