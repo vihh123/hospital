@@ -3,7 +3,7 @@ export const perguntas = [
         enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
         alternativas: [
             {
-                texto: "Isso é chocante!",
+                texto: "Isso é legal!",
                 afirmacao: ["No início ele fica em choque do que essa tecnologia pode fazer. ",
                     "Achou um terror pensar na velocidade na qual a tecnologia está avançando."
                 ]
@@ -78,7 +78,7 @@ export const perguntas = [
                 afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
+                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina falha, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
                 afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
             }
         ]
