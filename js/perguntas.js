@@ -1,9 +1,9 @@
 export const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se da de cara com uma nova tecnologia, um chat que consegue responder qualquer pergunta, ele também faz imagens e áudios reais. Qual o primeiro pensamento?",
+        enunciado: "Olá bom dia, do que voce precisa?",
         alternativas: [
             {
-                texto: "Isso é foda!",
+                texto: "Preciso de atendimento!",
                 afirmacao: [
                     "No início ficou em choque do que essa tecnologia faz.",
                     "Achou assustador pensar na sagacidade na qual a tecnologia está avançando."
