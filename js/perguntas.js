@@ -105,7 +105,11 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "Em 2049 Os hospitais desempenham um papel fundamental na sociedade, oferecendo cuidados de saúde essenciais para a população. Esses estabelecimentos são equipados para atender a diversas necessidades médicas, desde emergências até tratamentos especializados. Além de profissionais qualificados, como médicos e enfermeiros, os hospitais contam com tecnologia avançada para diagnósticos e terapias. A experiência do paciente também é crucial, com foco em conforto e apoio emocional. Ao explorar o ambiente hospitalar, é possível delver em aspectos como a importância da prevenção, a inovação nos tratamentos e o impacto da saúde pública.
+
+
+
+";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
