@@ -11,7 +11,7 @@ export const perguntas = [
                 proxima: 1,
             },
             {
-                texto: "Isso é legal!",
+                texto: "Estou apenas conhecendo o hospital!",
                 afirmacao: [
                     "Quis saber como usar IA no seu dia a dia.",
                     "Pensou que IA pode ajudar em questões da sua vida."
