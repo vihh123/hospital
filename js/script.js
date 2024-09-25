@@ -61,5 +61,4 @@ function substituiNome() {
 }
 
 substituiNome();
-substituiNome();
 mostraPergunta();
