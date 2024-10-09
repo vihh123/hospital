@@ -21,10 +21,10 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Claro, posso pegar algumas informações primeiro. Qual é o seu nome e data de nascimento?"
+        enunciado: "Claro, posso pegar algumas informações primeiro. Qual é o seu nome e data de nascimento?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Meu nome é (seu nome), nasci em (data de nascimento).",
                 afirmacao: [
                     "Conseguiu utilizar a IA para buscar informações úteis.",
                     "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
