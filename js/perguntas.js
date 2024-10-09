@@ -67,7 +67,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Ferramentas de busca que utilizam IA podem facilitar muito nosso processo de busca por informações. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
+        enunciado: "Entendi. Vamos priorizar seu atendimento. Vou chamá-la para a triagem. Por favor, aguarde um momento.",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
