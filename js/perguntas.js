@@ -6,7 +6,7 @@ export const perguntas = [
                 texto: "Preciso de atendimento!",
                 afirmacao: [
                     "No início ficou em choque do que essa tecnologia faz.",
-                    "Achou assustador pensar na sagacidade na qual a tecnologia está avançando."
+                    "O atendimento médico é um pilar fundamental da saúde pública, desempenhando um papel crucial na prevenção, diagnóstico e tratamento de doenças. A qualidade desse atendimento pode influenciar significativamente a qualidade de vida dos pacientes e a eficácia dos sistemas de saúde.."
                 ],
                 proxima: 1,
             },
