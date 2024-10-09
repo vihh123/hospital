@@ -33,7 +33,7 @@ export const perguntas = [
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Meu cpf é (seu cpf) e o (nome do bairro) e (endereço).",
                 afirmacao: [
                     "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
