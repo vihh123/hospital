@@ -70,7 +70,7 @@ export const perguntas = [
         enunciado: "Entendi. Vamos priorizar seu atendimento. Vou chamá-la para a triagem. Por favor, aguarde um momento.",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Ok vou aguardar.",
                 afirmacao: [
                     "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
                     "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
@@ -78,7 +78,7 @@ export const perguntas = [
                 proxima: 5,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Quero ser atendido agora.",
                 afirmacao: [
                     "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
                     "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
