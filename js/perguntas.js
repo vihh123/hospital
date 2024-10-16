@@ -164,12 +164,10 @@ export const perguntas = [
                 texto: "Obrigada(O) pelo atendimento.",
                 afirmacao: [
                     "O atendimento médico é uma responsabilidade compartilhada entre profissionais de saúde, instituições e a sociedade. Investir em um sistema de saúde que priorize a qualidade, a humanização e a prevenção é fundamental para promover uma vida mais saudável e digna para todos.",
-                    "O atendimento médico é um elemento-chave para a promoção da saúde e o bem-estar da população. Ao focar na integralidade, comunicação, prevenção e trabalho em equipe, é possível construir um sistema de saúde mais eficaz e humano, que atenda às necessidades de todos os cidadãos.
-
-.",
+                    "O atendimento médico é um elemento-chave para a promoção da saúde e o bem-estar da população. Ao focar na integralidade, comunicação, prevenção e trabalho em equipe, é possível construir um sistema de saúde mais eficaz e humano, que atenda às necessidades de todos os cidadãos.",
                     "Todos precisamos de um bom atendimento."
-                ],
-            },
+                ]
+            }
         ]
-    }
+    },
 ];
